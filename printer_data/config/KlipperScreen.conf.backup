@@ -1,10 +1,9 @@
 [main]
-theme = VoronSBIronRed
+theme = material-dark
 
 #~# --- Do not edit below this line. This section is auto generated --- #~#
 #~#
 #~# [main]
-#~# theme = VoronSBIronRed
 #~# 24htime = False
 #~# confirm_estop = True
 #~# autoclose_popups = False
